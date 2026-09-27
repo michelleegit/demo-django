@@ -4,7 +4,7 @@ Projeto desenvolvido seguindo o roteiro "Construindo um site com Django + Tailwi
 
 - **Aluna:** Michelle de Oliveira Pinheiro
 - **Disciplina:** BCC481 – Programação Web
-- **Professor(a):** Aline Brito
+- **Professora:** Aline Brito
 
 ## Sobre o projeto
 
