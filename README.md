@@ -12,5 +12,7 @@ Site simples de uma página, feito em Django 5.1, estilizado com Tailwind CSS (v
 com dados salvos em SQLite e executado dentro de um container Docker.
 A página inicial lista as mensagens cadastradas pelo painel administrativo do Django.
 
-<img width="1920" height="1080" alt="Captura de tela de 2026-09-27 11-24-23" src="https://github.com/user-attachments/assets/ecd44d93-2bd4-44b8-bd40-f8a0ab4afb9d" />
-<img width="1920" height="1080" alt="Captura de tela de 2026-09-27 11-24-49" src="https://github.com/user-attachments/assets/260ba026-3f91-46c4-99db-aa799b6e7773" />
+## Sistema em execução
+
+<img width="1920" height="1080" alt="Captura de tela de 2026-09-28 12-09-56" src="https://github.com/user-attachments/assets/78cde599-5479-4151-9c72-8adff5ee25c6" />
+
